@@ -1,0 +1,81 @@
+.button-collapse, .brand-logo{
+	margin-left: 20px;
+}
+
+/*
+	Selectores CSS3
+		clases "."
+		id "#"
+		etiquetas "(nombre de etiqueta)"
+*/
+
+
+			/*            INDEX            */
+				/* slider */
+#slider-libreria{
+	margin-top: 30px;
+}
+.slider .indicators .indicator-item{
+	background-color: #666666;
+}
+.slider .indicators .indicator-item.active{
+	background-color: #1b5e20;
+}
+
+				/* seccion 2 */
+#section2{
+	margin-top: 30px;
+	color: red;
+}
+#section2 p{
+	color: black;
+	text-align: justify;
+}
+
+				/*Pie de pagina*/
+.btn-social{
+	margin-right: 20px;
+}
+
+
+		/*            CONTACTO           */
+#slider-contacto{
+	margin-top: 30px;
+}
+
+.cuerpocont{
+	margin-left: 50px;
+}
+
+.registro{
+  margin-left: 200px;
+}
+
+		    /*				ACCEDER				*/
+
+#section3{
+  margin-top: 30px;
+  height: 300px;
+}
+
+.error{
+	padding: 3px;
+	color: red;
+}
+
+              /*            ACERCA            */
+.imagen{
+  align-items: left;
+  vertical-align: middle;
+  width: 200px;
+}
+
+.acercade{
+  margin-left: 300px;
+  margin-right: 300px;
+}
+
+				/*		  ADMINISTRADOR		  */
+.admin{
+	margin-left: 370px;
+}
